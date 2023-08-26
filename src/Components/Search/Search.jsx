@@ -5,7 +5,7 @@ function Search(){
          <input 
          id="pokemon-name-search"
          type="text"
-         placeholder="pokemn name...."
+         placeholder="Pokemon Name...."
          />
         </div>
     )
